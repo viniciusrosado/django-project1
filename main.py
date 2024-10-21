@@ -1,6 +1,5 @@
 print("Olá")
 
-test =input ("Digite : ")
+test = input("Digite : ")
 
-print (test)
-
+print(test)
